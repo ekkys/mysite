@@ -1,0 +1,99 @@
+/*---------------Tag Selector------------------*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: #d9ecf2;
+}
+
+h1{
+margin-top: 0;
+font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*--------------- Class Selector ----------------- */
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+
+.top-container {
+  background-color: #d9ecf2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+/* Praktikum Relative */
+/* .blue{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.yellow{
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+
+}
+
+.red{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 400px;
+  bottom: 400px;
+} */
+/* Praktikum Absolute */
+.green {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+.purple {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+}
+
+.orange {
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
