@@ -26,15 +26,15 @@ h3 {
 }
 
 hr {
-  border: dotted #EAF6F6 10px;
+   /*border: dotted #EAF6F6 10px;
   border-bottom: none;
   width: 4%;
-  /* margin: 100px auto 100px auto;
+  margin: 100px auto 100px auto;*/
   width: 7%;
   border: .75em solid;
   border-color: #EAF6F6;
   border-bottom-style : dotted;
-  border-top-style : none; */
+  border-top-style : none; 
 }
 
 a {
